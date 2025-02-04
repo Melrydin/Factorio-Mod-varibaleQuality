@@ -1,0 +1,12 @@
+{
+    "name": "varibaleQuality",
+    "version": "0.0.1",
+    "title": "Varibale Quality",
+    "author": "melrydin",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "description": "Change the quliltäts module value",
+    "dependencies": ["base >= 2.0.0"],
+    "quality_required": true
+}
