@@ -8,5 +8,5 @@ end)
 
 function update_quality_module()
   local quality_bonus = settings.startup["quality_module_bonus"].value
-  -- Verwenden Sie quality_bonus, um die gewünschten Anpassungen vorzunehmen
+  -- Use quality_bonus to make the desired adjustments
 end
